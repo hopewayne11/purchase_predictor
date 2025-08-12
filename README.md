@@ -1,2 +1,8 @@
-# purchase_predictor
-A machine learning model that predicts the likelihood of a product being bought based on google trends and social media searches
+#Purchase Predictor
+
+Predict the purchase likelihood of a given product using Google Trends and social media signals
+
+#Requirements
+
+Install from 'requirements.txt'(recommended environment: Python 3.10):
+
